@@ -1,2 +1,0 @@
-# Crvck
-CrvckVision official website
